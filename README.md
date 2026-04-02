@@ -7,12 +7,8 @@ A comprehensive suite of 16 codebase health checks covering architecture, securi
 ## Quick Start
 
 ```bash
-# Add the marketplace
-/plugin marketplace add YOUR_USERNAME/codevitals
-
-# Install individual skills
-/plugin install cto-audit@codevitals
-/plugin install infosec-audit@codevitals
+# Install from GitHub
+claude plugin add barwickdesign/CodeVitals
 
 # Or just ask Claude — skills trigger automatically
 > "Audit this codebase"

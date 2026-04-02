@@ -3,7 +3,7 @@
   "description": "CTO-grade diagnostic skills for Claude Code. A comprehensive suite of codebase health checks covering architecture, security, performance, testing, DevOps, and developer experience.",
   "owner": {
     "name": "CodeVitals",
-    "url": "https://github.com/YOUR_USERNAME/codevitals"
+    "url": "https://github.com/barwickdesign/CodeVitals"
   },
   "plugins": [
     {
