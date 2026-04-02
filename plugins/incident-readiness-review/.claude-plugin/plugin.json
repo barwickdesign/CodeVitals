@@ -1,0 +1,8 @@
+{
+  "name": "incident-readiness-review",
+  "version": "1.0.0",
+  "description": "Monitoring, alerting, observability, and incident response review",
+  "skills": [
+    "skills/incident-readiness-review"
+  ]
+}

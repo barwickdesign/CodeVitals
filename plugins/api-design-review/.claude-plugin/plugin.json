@@ -1,0 +1,8 @@
+{
+  "name": "api-design-review",
+  "version": "1.0.0",
+  "description": "REST and GraphQL API design quality review",
+  "skills": [
+    "skills/api-design-review"
+  ]
+}

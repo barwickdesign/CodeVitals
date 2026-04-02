@@ -1,0 +1,8 @@
+{
+  "name": "microservices-readiness",
+  "version": "1.0.0",
+  "description": "Monolith decomposition readiness and service boundary assessment",
+  "skills": [
+    "skills/microservices-readiness"
+  ]
+}

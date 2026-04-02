@@ -1,0 +1,8 @@
+{
+  "name": "performance-audit",
+  "version": "1.0.0",
+  "description": "Application performance audit \u2014 queries, caching, bundles, Core Web Vitals",
+  "skills": [
+    "skills/performance-audit"
+  ]
+}
