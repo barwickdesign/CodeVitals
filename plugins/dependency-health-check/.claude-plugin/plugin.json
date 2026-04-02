@@ -1,8 +1,0 @@
-{
-  "name": "dependency-health-check",
-  "version": "1.0.0",
-  "description": "Dependency freshness, risk scoring, and supply chain audit",
-  "skills": [
-    "skills/dependency-health-check"
-  ]
-}

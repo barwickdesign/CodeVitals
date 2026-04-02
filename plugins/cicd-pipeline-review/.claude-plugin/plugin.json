@@ -1,8 +1,0 @@
-{
-  "name": "cicd-pipeline-review",
-  "version": "1.0.0",
-  "description": "CI/CD pipeline efficiency, safety, and maturity review",
-  "skills": [
-    "skills/cicd-pipeline-review"
-  ]
-}

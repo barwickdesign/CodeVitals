@@ -1,8 +1,0 @@
-{
-  "name": "tech-debt-prioritiser",
-  "version": "1.0.0",
-  "description": "Technical debt scanner and sprint-ready backlog generator",
-  "skills": [
-    "skills/tech-debt-prioritiser"
-  ]
-}

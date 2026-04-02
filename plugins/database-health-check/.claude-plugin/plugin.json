@@ -1,8 +1,0 @@
-{
-  "name": "database-health-check",
-  "version": "1.0.0",
-  "description": "Database schema, query, indexing, and migration health check",
-  "skills": [
-    "skills/database-health-check"
-  ]
-}

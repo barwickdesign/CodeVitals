@@ -1,8 +1,0 @@
-{
-  "name": "container-audit",
-  "version": "1.0.0",
-  "description": "Dockerfile, Docker Compose, and container security audit",
-  "skills": [
-    "skills/container-audit"
-  ]
-}

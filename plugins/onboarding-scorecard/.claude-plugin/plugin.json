@@ -1,8 +1,0 @@
-{
-  "name": "onboarding-scorecard",
-  "version": "1.0.0",
-  "description": "Developer onboarding and experience scorecard",
-  "skills": [
-    "skills/onboarding-scorecard"
-  ]
-}

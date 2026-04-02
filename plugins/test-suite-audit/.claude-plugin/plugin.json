@@ -1,8 +1,0 @@
-{
-  "name": "test-suite-audit",
-  "version": "1.0.0",
-  "description": "Test coverage, quality, and reliability audit",
-  "skills": [
-    "skills/test-suite-audit"
-  ]
-}

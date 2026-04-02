@@ -1,8 +1,0 @@
-{
-  "name": "scalability-assessment",
-  "version": "1.0.0",
-  "description": "Horizontal scaling readiness, bottleneck identification, capacity planning",
-  "skills": [
-    "skills/scalability-assessment"
-  ]
-}

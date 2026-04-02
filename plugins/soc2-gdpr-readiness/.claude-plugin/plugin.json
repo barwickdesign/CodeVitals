@@ -1,8 +1,0 @@
-{
-  "name": "soc2-gdpr-readiness",
-  "version": "1.0.0",
-  "description": "SOC 2 and GDPR compliance readiness assessment",
-  "skills": [
-    "skills/soc2-gdpr-readiness"
-  ]
-}

@@ -10,9 +10,8 @@ A comprehensive suite of 16 codebase health checks covering architecture, securi
 # Add the marketplace
 /plugin marketplace add barwickdesign/CodeVitals
 
-# Install individual skills
-/plugin install cto-audit@codevitals
-/plugin install infosec-audit@codevitals
+# Install all 16 skills
+/plugin install codevitals
 
 # Or just ask Claude — skills trigger automatically
 > "Audit this codebase"
@@ -90,18 +89,16 @@ Every skill produces a structured markdown report with:
 
 ## Contributing
 
-PRs welcome. Each skill lives in `plugins/<skill-name>/` and follows the standard structure:
+PRs welcome. Each skill lives in `skills/<skill-name>/` and follows the standard structure:
 
 ```
-plugins/my-skill/
-├── .claude-plugin/
-│   └── plugin.json
-└── skills/
-    └── my-skill/
-        ├── SKILL.md
-        └── references/
-            └── checklist.md
+skills/my-skill/
+├── SKILL.md
+└── references/
+    └── checklist.md
 ```
+
+Add your skill path to `.claude-plugin/plugin.json` in the `skills` array.
 
 ## License
 

@@ -1,8 +1,0 @@
-{
-  "name": "infosec-audit",
-  "version": "1.0.0",
-  "description": "Deep application security audit \u2014 OWASP Top 10, secrets, auth, dependencies",
-  "skills": [
-    "skills/infosec-audit"
-  ]
-}

@@ -1,8 +1,0 @@
-{
-  "name": "cto-audit",
-  "version": "1.0.0",
-  "description": "Comprehensive CTO-level technical audit of any codebase",
-  "skills": [
-    "skills/cto-audit"
-  ]
-}
