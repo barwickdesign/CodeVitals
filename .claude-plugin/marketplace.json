@@ -8,7 +8,7 @@
   "plugins": [
     {
       "name": "cto-audit",
-      "source": { "source": "relative", "path": "plugins/cto-audit" },
+      "source": "./plugins/cto-audit",
       "version": "1.0.0",
       "description": "Comprehensive CTO-level technical audit of any codebase",
       "category": "code-quality",
@@ -16,7 +16,7 @@
     },
     {
       "name": "infosec-audit",
-      "source": { "source": "relative", "path": "plugins/infosec-audit" },
+      "source": "./plugins/infosec-audit",
       "version": "1.0.0",
       "description": "Deep application security audit — OWASP Top 10, secrets, auth, dependencies",
       "category": "security",
@@ -24,7 +24,7 @@
     },
     {
       "name": "soc2-gdpr-readiness",
-      "source": { "source": "relative", "path": "plugins/soc2-gdpr-readiness" },
+      "source": "./plugins/soc2-gdpr-readiness",
       "version": "1.0.0",
       "description": "SOC 2 and GDPR compliance readiness assessment for codebases",
       "category": "security",
@@ -32,7 +32,7 @@
     },
     {
       "name": "pentest-planner",
-      "source": { "source": "relative", "path": "plugins/pentest-planner" },
+      "source": "./plugins/pentest-planner",
       "version": "1.0.0",
       "description": "Attack surface analysis and penetration test planning",
       "category": "security",
@@ -40,7 +40,7 @@
     },
     {
       "name": "api-design-review",
-      "source": { "source": "relative", "path": "plugins/api-design-review" },
+      "source": "./plugins/api-design-review",
       "version": "1.0.0",
       "description": "REST and GraphQL API design quality review",
       "category": "architecture",
@@ -48,7 +48,7 @@
     },
     {
       "name": "database-health-check",
-      "source": { "source": "relative", "path": "plugins/database-health-check" },
+      "source": "./plugins/database-health-check",
       "version": "1.0.0",
       "description": "Database schema, query, indexing, and migration health check",
       "category": "performance",
@@ -56,7 +56,7 @@
     },
     {
       "name": "microservices-readiness",
-      "source": { "source": "relative", "path": "plugins/microservices-readiness" },
+      "source": "./plugins/microservices-readiness",
       "version": "1.0.0",
       "description": "Evaluate monolith decomposition readiness and service boundary design",
       "category": "architecture",
@@ -64,7 +64,7 @@
     },
     {
       "name": "test-suite-audit",
-      "source": { "source": "relative", "path": "plugins/test-suite-audit" },
+      "source": "./plugins/test-suite-audit",
       "version": "1.0.0",
       "description": "Test coverage, quality, and reliability audit with a concrete backlog",
       "category": "code-quality",
@@ -72,7 +72,7 @@
     },
     {
       "name": "cicd-pipeline-review",
-      "source": { "source": "relative", "path": "plugins/cicd-pipeline-review" },
+      "source": "./plugins/cicd-pipeline-review",
       "version": "1.0.0",
       "description": "CI/CD pipeline efficiency, safety, and maturity review",
       "category": "devops",
@@ -80,7 +80,7 @@
     },
     {
       "name": "dependency-health-check",
-      "source": { "source": "relative", "path": "plugins/dependency-health-check" },
+      "source": "./plugins/dependency-health-check",
       "version": "1.0.0",
       "description": "Dependency freshness, risk scoring, license compliance, and supply chain audit",
       "category": "security",
@@ -88,7 +88,7 @@
     },
     {
       "name": "performance-audit",
-      "source": { "source": "relative", "path": "plugins/performance-audit" },
+      "source": "./plugins/performance-audit",
       "version": "1.0.0",
       "description": "Application performance audit — bundle size, queries, caching, Core Web Vitals",
       "category": "performance",
@@ -96,7 +96,7 @@
     },
     {
       "name": "scalability-assessment",
-      "source": { "source": "relative", "path": "plugins/scalability-assessment" },
+      "source": "./plugins/scalability-assessment",
       "version": "1.0.0",
       "description": "Horizontal scaling readiness, bottleneck identification, and capacity planning",
       "category": "architecture",
@@ -104,7 +104,7 @@
     },
     {
       "name": "onboarding-scorecard",
-      "source": { "source": "relative", "path": "plugins/onboarding-scorecard" },
+      "source": "./plugins/onboarding-scorecard",
       "version": "1.0.0",
       "description": "Developer onboarding and experience scorecard — clone to running in how long?",
       "category": "developer-experience",
@@ -112,7 +112,7 @@
     },
     {
       "name": "tech-debt-prioritiser",
-      "source": { "source": "relative", "path": "plugins/tech-debt-prioritiser" },
+      "source": "./plugins/tech-debt-prioritiser",
       "version": "1.0.0",
       "description": "Scan, score, and prioritise technical debt into a sprint-ready backlog",
       "category": "code-quality",
@@ -120,7 +120,7 @@
     },
     {
       "name": "incident-readiness-review",
-      "source": { "source": "relative", "path": "plugins/incident-readiness-review" },
+      "source": "./plugins/incident-readiness-review",
       "version": "1.0.0",
       "description": "Monitoring, alerting, observability, and incident response readiness review",
       "category": "devops",
@@ -128,7 +128,7 @@
     },
     {
       "name": "container-audit",
-      "source": { "source": "relative", "path": "plugins/container-audit" },
+      "source": "./plugins/container-audit",
       "version": "1.0.0",
       "description": "Dockerfile, Docker Compose, and container security best practices audit",
       "category": "devops",
