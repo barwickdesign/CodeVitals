@@ -1,18 +1,38 @@
 {
   "name": "codevitals",
-  "description": "CTO-grade diagnostic skills for Claude Code. A comprehensive suite of codebase health checks covering architecture, security, performance, testing, DevOps, and developer experience.",
   "owner": {
     "name": "CodeVitals",
     "url": "https://github.com/barwickdesign/CodeVitals"
   },
+  "metadata": {
+    "description": "CTO-grade diagnostic skills for Claude Code. A comprehensive suite of codebase health checks covering architecture, security, performance, testing, DevOps, and developer experience.",
+    "version": "1.0.0",
+    "repository": "https://github.com/barwickdesign/CodeVitals"
+  },
   "plugins": [
     {
       "name": "codevitals",
-      "source": "./",
-      "version": "1.0.0",
       "description": "16 CTO-grade codebase health checks covering architecture, security, performance, testing, DevOps, and developer experience",
-      "category": "code-quality",
-      "tags": ["audit", "security", "architecture", "performance", "devops", "code-review"]
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/cto-audit",
+        "./skills/tech-debt-prioritiser",
+        "./skills/infosec-audit",
+        "./skills/soc2-gdpr-readiness",
+        "./skills/pentest-planner",
+        "./skills/dependency-health-check",
+        "./skills/api-design-review",
+        "./skills/database-health-check",
+        "./skills/microservices-readiness",
+        "./skills/performance-audit",
+        "./skills/scalability-assessment",
+        "./skills/test-suite-audit",
+        "./skills/cicd-pipeline-review",
+        "./skills/incident-readiness-review",
+        "./skills/container-audit",
+        "./skills/onboarding-scorecard"
+      ]
     }
   ]
 }
